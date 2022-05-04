@@ -1,0 +1,18 @@
+package mypackage;
+
+public class MyClass 
+{
+
+	public static void main(String[] args) 
+	{
+		//byte
+		byte price=120;
+		System.out.println("price");
+		//float
+		float data=54.123654789f;
+		System.out.println("data");
+		
+
+	}
+
+}
